@@ -62,7 +62,7 @@ background-color: white;
 #home::before{
     content: "";
     position: absolute;
-    background: url(images/bg12.jpg) no-repeat center center/cover;
+    background: url(bg12.jpg) no-repeat center center/cover;
     height: 504px;
     width: 100%;
     z-index: -1;
@@ -144,7 +144,7 @@ background-color: white;
 #clients-section::before{
     content: "";
     position: absolute;
-    background: url(images/bg01.jpg) no-repeat center center/cover;
+    background: url(bg01.jpg) no-repeat center center/cover;
     left: 0;
     height: 40%;
     width: 100%;
@@ -194,7 +194,7 @@ background-color: white;
     height: 100%;
     width: 100%;
     z-index: -1;
-    background: url(images/bg05.jpg);
+    background: url(bg05.jpg);
     opacity: 0.3;
     left: 0;
 }
